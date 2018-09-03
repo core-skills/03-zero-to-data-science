@@ -10,4 +10,6 @@ You should aim to have an understanding of the basic parts of a data science pro
 
 Throughout the course we will attempt to stick some interesting links in this document for you to follow up on at your own leisure. These are not compulsory (we realise everyone is busy!) but if you've got some downtime on the train they might be interesting to look at.
 
-**todo**: Reading links go here
+- Building a data culture in your enterprise: https://datatherapy.org/2017/12/06/building-a-data-culture/ - there's also a bunch of other good articles from this group at MIT Media Lab in a similar vein
+
+- Examples of enterprise-level data science workflows: e.g. https://medium.com/apteo/our-data-science-workflow-b974f30a124d and others around online.
