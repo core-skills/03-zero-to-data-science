@@ -1,6 +1,6 @@
 # Core skills program - week 1 - Zero to data science
 
-**todo**: Add Binder badge to open this folder in Binder
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/01-zero-to-data-science.git/master)
 
 The aim of today's session will be to take you though a 'typical' data science workflow. We won't be going into any detail but rather aim to show you all the parts and how they fit together; as the course progresses we'll fill in the details 
 
