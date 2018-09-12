@@ -12,7 +12,7 @@ Throughout the course we will attempt to stick some interesting links in this do
 
 - Building a data culture in your enterprise: https://datatherapy.org/2017/12/06/building-a-data-culture/ - there's also a bunch of other good articles from this group at MIT Media Lab in a similar vein
 
-There's a bunch of interesting articles floating around about the resources industry e.g.: https://www.forbes.com/sites/bernardmarr/2018/09/07/the-4th-industrial-revolution-how-mining-companies-are-using-ai-machine-learning-and-robots/#20d32924497e - take a look at how companies are using data science as part of a broader automation push.
+- There's a bunch of interesting articles floating around about data science in the resources industry specifically - for example: https://www.forbes.com/sites/bernardmarr/2018/09/07/the-4th-industrial-revolution-how-mining-companies-are-using-ai-machine-learning-and-robots/#20d32924497e - take a look at how companies are using data science as part of a broader automation push.
 
 We will be talking a bit about building momentum when delivering data science projects - here are a few links about this:
 
@@ -20,5 +20,5 @@ We will be talking a bit about building momentum when delivering data science pr
 
 - What data scientists actually do: https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists
 
-- Accelerating data science by tapping 'digital achievers': https://www.forbes.com/sites/ellevate/2018/08/24/five-ways-to-accelerate-digital-transformation-by-tapping-digital-achievers/?_lrsc=e4069d5a-1dda-4a98-82da-b93700263761&trk=elevate_li#410370ee1389
+- Accelerating data science by tapping 'digital achievers': https://www.forbes.com/sites/ellevate/2018/08/24/five-ways-to-accelerate-digital-transformation-by-tapping-digital-achievers
 
