@@ -10,10 +10,14 @@ dependencies:
   - numpy
   - pandas
   - xlrd
+  - feather-format
   - matplotlib
   - seaborn>=0.9
   - patsy
   - scikit-learn
   - ipykernel
-  # - pip:
-  #   - pip-installable dependencies go here. Prefer Conda ones if possible...
+  - jupyter
+  - jupyter-lab
+  - rasterio
+  - pip:
+    - bomber
