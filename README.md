@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/01-zero-to-data-science.git/master)
 
-The aim of today's session will be to take you though a 'typical' data science workflow. We won't be going into any detail but rather aim to show you all the parts and how they fit together; as the course progresses we'll fill in the details
+The aim of today's session will be to take you though a 'typical' data science workflow. We won't be going into any detail but rather aim to show you all the parts and how they fit together; as the course progresses we'll fill in the details.
 
 You should aim to have an understanding of the basic parts of a data science project, and be starting to get familiar with using git, Python and Jupyter notebooks.
 
