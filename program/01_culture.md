@@ -38,7 +38,7 @@ There are different styles of data-oriented businesses, each with different uses
 Recognize that it’s not either-or, and that all organizations can use a combination of all three approaches.
 
 | :question: Where are each of these approaches useful? |
-| --------------------------------------------- |
+| :--------------------------------------------- |
 
 What are the roadblocks to getting started with data science problems? How will we handle these?
 
@@ -57,7 +57,7 @@ What are the roadblocks to getting started with data science problems? How will 
 ### Defining Data Science
 
 | :question: How you would define data science? |
-| --------------------------------------------- |
+|:--------------------------------------------- |
 
 
 ### Data Literacy
@@ -74,7 +74,7 @@ Data Literacy vs Data Science:
 ### Where does data science sit within a broader data culture?
 
 | :question: Where do data scientists connect within the three types of business we’ve just described? |
-| ----------------------------------------------------------------------------------------- |
+|:---------------------------------------------------------------------------------------------------- |
 
 ## Data Science Workflows
 
@@ -124,7 +124,7 @@ The ideal data scientist does not exist, and you need a spectrum of people worki
 Map these people onto your existing workflow. Who fits in where.
 
 | :question: **Where do you fit on this spectrum of people?**                                            |
-| ------------------------------------------------------------------------------------------------------ |
+|:------------------------------------------------------------------------------------------------------ |
 | :question: **Where would you like to be?**                                                             |
 | :question: **What are the key differences between them?**                                              |
 | :question: **What are some of the more important skills which align with where you would like to be?** |
@@ -137,14 +137,14 @@ Map these people onto your existing workflow. Who fits in where.
 Map out the interfaces between your team members considering how you work.
 
 | :question: **Who manages these interfaces?**                                    |
-| ------------------------------------------------------------------------------- |
+|:------------------------------------------------------------------------------- |
 | :question: **What (data/code/information) needs to flow across them?**          |
 | :question: **What does effective leadership look like in a data-focused team?** |
 
 * FAIR Data
 
 | :question: **What needs to be supported once you’ve built something?**                  |
-| --------------------------------------------------------------------------------------- |
+|:--------------------------------------------------------------------------------------- |
 | :question: **Who provides that support?**                                               |
 | :question: **Who funds your work?**                                                     |
 | :question: **How do you measure ongoing value? How do you know when things go wrong?**  |
