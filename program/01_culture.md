@@ -40,6 +40,7 @@
   | --------------------------------------------- |
 
 1. What are the roadblocks to getting started with data science problems? How will we handle these?
+
   | Aspect         | Description                                                                                                     | Solutions                      |
   | -------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
   | **Confidence** | Organizations are not confident that they can be google.                                                                 | Build with small examples.     |
