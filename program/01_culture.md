@@ -121,35 +121,35 @@ Start data and analytics initiatives with a baseline measurement of the “as is
 
 The ideal data scientist does not exist, and you need a spectrum of people working together.
 
-Map these people onto your existing workflow. Who fits in where.
 
-| :question: **Where do you fit on this spectrum of people?**                                            |
+| Map these people onto your existing workflow. Who fits in where?                                       |
 |:------------------------------------------------------------------------------------------------------ |
+| :question: **Where do you fit on this spectrum of people?**                                            |
 | :question: **Where would you like to be?**                                                             |
 | :question: **What are the key differences between them?**                                              |
 | :question: **What are some of the more important skills which align with where you would like to be?** |
 | :question: **Where do you see gaps in your organisation with respect to these roles?**                 |
 | :question: **How might you start bridging those gaps?**                                                |
 
+
 #### Mapping Interfaces
 
-
-Map out the interfaces between your team members considering how you work.
-
-| :question: **Who manages these interfaces?**                                    |
+| Map out the interfaces between your team members considering how you work.      |
 |:------------------------------------------------------------------------------- |
+| :question: **Who manages these interfaces?**                                    |
 | :question: **What (data/code/information) needs to flow across them?**          |
 | :question: **What does effective leadership look like in a data-focused team?** |
 
-* FAIR Data
 
-| :question: **What needs to be supported once you’ve built something?**                  |
+
+| Map interfaces from your data team to the rest of the business.                         |
 |:--------------------------------------------------------------------------------------- |
+| :question: **What needs to be supported once you’ve built something?**                  |
 | :question: **Who provides that support?**                                               |
 | :question: **Who funds your work?**                                                     |
 | :question: **How do you measure ongoing value? How do you know when things go wrong?**  |
 | :question: **Who manages the new datasets that you’re creating?**                       |
 | :question: **Who helps others get confident with the new processes you’ve introduced?** |
-|                                                                                         |
+
 
 Note that all of these interfaces are potential communication barriers.

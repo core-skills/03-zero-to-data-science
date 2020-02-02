@@ -37,8 +37,9 @@
 
 #### Data Management: Storage and Access
 
-| :question: **Who do you have to deal with to access data?** |
+| Map out those who have need for access to data.             |
 |:----------------------------------------------------------- |
+| :question: **Who do you have to deal with to access data?** |
 | :question: **Who needs access to the data?**                |
 | :question: **How do their needs differ?**                   |
 ### Data Visualisation
