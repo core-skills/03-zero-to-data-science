@@ -26,7 +26,7 @@ Provide an overview of a 'typical' data science workflow.
 | 13:00 | 14:30 | [**Data Science Projects**]                     |
 | 14:30 | 15:00 | *Afternoon Tea*                                 |
 | 15:00 | 16:30 | [**Data Exploration, Modelling and Reporting**] |
-| 16:30 | 16:45 | *Reflection and Close*                          |
+| 16:30 | 16:45 | [**Closeout**]                                  |
 
 [**Creating a Data Culture**]: ./01_culture.md
 
@@ -35,3 +35,5 @@ Provide an overview of a 'typical' data science workflow.
 [**Data Science Projects**]: ./03_projects.md
 
 [**Data Exploration, Modelling and Reporting**]: ./04_dataexploration.md
+
+[**Closeout**]: ./05_closeout.md
