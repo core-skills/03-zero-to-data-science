@@ -87,6 +87,7 @@ Data Literacy vs Data Science:
 * Implement:
   – Draft, Refine, Optimize
 
+### How do we make prototypes quickly?
 *	Be prepared to kill what you’ve built if something better comes along. Avoid the [IKEA Effect]!
 
 [IKEA Effect]: https://doi.org/10.1016/j.jcps.2011.08.002 "Norton, M.I., Mochon, D., Ariely, D., 2012. The IKEA effect: When labor leads to love. Journal of Consumer Psychology 22, 453–460. doi: 10.1016/j.jcps.2011.08.002"
@@ -113,11 +114,42 @@ Start data and analytics initiatives with a baseline measurement of the “as is
 
 ### Maintaining Momentum
 
-## Managing Data for Data Science Workflows
-
-* FAIR Data
 
 ## Data Science Teams  
 
-1. Parts of an effective data team
-1. Mapping interfaces from your data team to the rest of the business
+### Parts of an Effective Data Team
+
+The ideal data scientist does not exist, and you need a spectrum of people working together.
+
+Map these people onto your existing workflow. Who fits in where.
+
+| :question: **Where do you fit on this spectrum of people?**                                            |
+| ------------------------------------------------------------------------------------------------------ |
+| :question: **Where would you like to be?**                                                             |
+| :question: **What are the key differences between them?**                                              |
+| :question: **What are some of the more important skills which align with where you would like to be?** |
+| :question: **Where do you see gaps in your organisation with respect to these roles?**                 |
+| :question: **How might you start bridging those gaps?**                                                |
+
+#### Mapping Interfaces
+
+
+Map out the interfaces between your team members considering how you work.
+
+| :question: **Who manages these interfaces?**                                    |
+| ------------------------------------------------------------------------------- |
+| :question: **What (data/code/information) needs to flow across them?**          |
+| :question: **What does effective leadership look like in a data-focused team?** |
+
+* FAIR Data
+
+| :question: **What needs to be supported once you’ve built something?**                  |
+| --------------------------------------------------------------------------------------- |
+| :question: **Who provides that support?**                                               |
+| :question: **Who funds your work?**                                                     |
+| :question: **How do you measure ongoing value? How do you know when things go wrong?**  |
+| :question: **Who manages the new datasets that you’re creating?**                       |
+| :question: **Who helps others get confident with the new processes you’ve introduced?** |
+|                                                                                         |
+
+Note that all of these interfaces are potential communication barriers.
