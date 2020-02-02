@@ -45,9 +45,9 @@
   | -------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
   | **Confidence** | Organizations are not confident that they can be google.                                                                 | Build with small examples.     |
   | **Technology** | Appears daunting, expensive and requires technical expertise.                                                   | Start with simple tech.        |
-  | **Process**    | Organizations have no laid-out process for working with data[1]  | Follow a step-by-step approach. |
+  | **Process**    | Organizations have no laid-out process for working with data<sup>[#]</sup>  | Follow a step-by-step approach. |
 
-[1]: _ "Although there may be processes for collecting it!"
+[#]: _ "Although there may be processes for collecting it!"
 
 [What is data culture?]: https://datatherapy.org/2017/12/06/building-a-data-culture/ "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"
 
