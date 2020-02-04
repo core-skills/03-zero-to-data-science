@@ -123,7 +123,7 @@ Data Literacy vs Data Science
 
 ## High-Level Data Science Strategies
 
-Building an effective strategy & making progress when you don’t have all the information. A strategy defines how you win. At a high level, a data and analytics strategy must answer questions such as “What data? For what purposes? And by whom?”
+A strategy defines how you win. At a high level, a data and analytics strategy must answer questions such as "What data? For what purposes? And by whom?"
 
 At a slightly lower level, a strategy must:
   *	Identify and guide the allocation of critical resources
@@ -153,27 +153,39 @@ Start data and analytics initiatives with a baseline measurement of the “as is
 | Existing Culture: 20 min |
 | ------------------------ |
 
-Introduce data literacy model as a way of thinking about the problem – suggest data science, data management, communications
+The last part of this section will be an opportunity to assess where you and your business are currently. One way to think about this is through the lens of data literacy, considering where yourself and your colleagues fit into this picture. Outside of science, engineering and analytics business areas, does it look similar or different?
 
-Different stages of ideas about data science:
-1. Data are columns in spreadsheets and not connected to business decisions
-1. Data are connected to decisions through descriptive statistics (mean, percentiles, range), visualization (what plot is appropriate) and inferential statistics (when does the data support the conclusions)? Train people to make fewer assumptions and plot the data for themselves
-1.Modelling process – coming up with your own models for the data making predictions of future states from current states
-1. Creating data products – making data speak for others through services and automated predictions
+We've included three tables below listing some ideas about stages of where your business may sit or be heading towards regarding data science, data management and how well data are used in communication.
 
-Data Management
-1. Data are spread out over the organization with no central point to get data from  
-1. Data are pooled and accessible to all staff with descriptive formats
-1. Data lifecycles are managed with old data retired. Code and pipelines are managed.
-1. Code and pipelines and servers are reused across the organization to add value across silos
-
-Communication ideas:
-1.	Data are not recognized
-1.	Basic metrics are available and used to drive decisions routinely in other business processes
-1.	Data are used to tell stories & show impact
-1.	Data are used to argue for particular courses of action
+| Different stages of ideas about data science:                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| Data are columns in spreadsheets and not connected to business decisions                                                |
+| Data are connected to decisions through descriptive statistics, visualization and inferential statistics?               |
+| Modelling process – coming up with your own models for the data making predictions of future states from current states |
+| Creating data products – making data speak for others through services and automated predictions                        |
 
 
+| Data Management                                                                             |
+| ------------------------------------------------------------------------------------------- |
+| Data are spread out over the organization with no central point to get data from            |
+| Data are pooled and accessible to all staff with descriptive formats                        |
+| Data lifecycles are managed with old data retired. Code and pipelines are managed.          |
+| Code and pipelines and servers are reused across the organization to add value across silos |
+
+
+| Communication                                                                                 |
+| --------------------------------------------------------------------------------------------- |
+| Data are not recognized                                                                       |
+| Basic metrics are available and used to drive decisions routinely in other business processes |
+| Data are used to tell stories & show impact                                                   |
+| Data are used to argue for particular courses of action                                       |
+
+In the next section we'll consider where we could make some improvements
+to foster a data culture,
+and some roadblocks you might encounter.
+
+| :question: Do you feel empowered to make some data-oriented changes in your workplace? |
+| -------------------------------------------------------------------------------------- |
 
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)
