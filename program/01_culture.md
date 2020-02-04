@@ -3,8 +3,8 @@
 
 # Creating a Data Culture
 
-| Overview: 40 min |
-| ---------------- |
+| Overview: 40-45 min |
+| ------------------- |
 
 ### Overview
 
@@ -31,7 +31,11 @@ Beyond this, the business create capability to **realize value** from this data.
 
 Data alone is not valuable (especially if it's not *valued*), but when combined with domain insight and rich metadata, it can be leveraged to create value. The better your data management and data *enrichment*, the longer your data will remain useful.
 
-The other major facet of this list is around enabling people (three of these four points).
+The other major facet of this list is around enabling people (three of these four points). There are many opportunities on the leadership side, but in the end employees need to feel empowered to work with their data.
+One aspect of this is working across silos, and leveraging a workforce with common purpose, skills and technology.
+
+<b id="f1">What is data culture? </b> ["Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"](https://datatherapy.org/2017/12/06/building-a-data-culture) [↩](#a1)
+
 ### Why build a data culture?
 
 Some of the more common reasons for developing a data culture are to:
@@ -99,6 +103,9 @@ There's a number of things which get in the way of a data culture, especially on
 | :question: What happens when data-focused business activities are contained within a single part of the organisation? |
 | --------------------------------------------------------------------------------------------------------------------- |
 
+
+<b id="f2">#:</b> Although there may be processes for collecting it! [↩](#a2)
+
 ### Data Literacy
 
 A key aspect of developing a data culture is **data literacy**. What does this mean? Overall, it's the ability to:
@@ -123,7 +130,7 @@ Data Literacy vs Data Science
 
 ## High-Level Data Science Strategies
 
-A strategy defines how you win. At a high level, a data and analytics strategy must answer questions such as "What data? For what purposes? And by whom?"
+A strategy defines how you win. At a high level, a data and analytics strategy must answer questions such as "What data? For what purposes? And by whom?".
 
 At a slightly lower level, a strategy must:
   *	Identify and guide the allocation of critical resources
@@ -131,27 +138,45 @@ At a slightly lower level, a strategy must:
   *	Adapt to changing circumstances dynamically
   *	Act both proactively and reactively
 
-### Baseline
+### Baseline & Measuring Improvements
 
-Start data and analytics initiatives with a baseline measurement of the “as is” state - show a clear path to financial and business objectives.
+Before you begin a journey with data and analytics initiatives, one of the best things you can do is establish where you're starting. From this baseline "as is" state you can then plot a show a clear path to financial and business objectives. Your data and analytics incentives and activities should be linked to generating value for the business.
 
-### Measure Improvements
+Decide on what you need to measure to demonstrate change, and to
+link this to increasing value. Remember that people measure
+what is easy to measure, not what is important to measure.
 
-* **Information Value** (or knowledge gain or sharing)
-*	**Business Value** (e.g. improve business processes with data and analytics)
-* **Stakeholder Value** (what the data and analytics mean for stakeholders, such as assets, partners, shareholders and society at large)
+This could include:
 
-### Maintaining Momentum
+* **Information Value**
 
+  You learn something new, or have greater certainty in your information. Knowledge gain or sharing within the business.
 
-<b id="f1">What is data culture? </b> ["Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"](https://datatherapy.org/2017/12/06/building-a-data-culture) [↩](#a1)
+*	**Business Value**
 
-<b id="f2">#:</b> Although there may be processes for collecting it! [↩](#a2)
+  You do better business: improve business *processes* with data and analytics.
+
+* **Stakeholder Value**
+
+  What the data and analytics mean for stakeholders, such as assets, partners, shareholders and society at large.
+
+| Some questions to consider:                                |
+| ---------------------------------------------------------- |
+| :question: What does this data help us do?                 |
+| :question: What is missing from this data?                 |
+| :question: Are we sharing data in the most effective ways? |
+| :question: How do we get different silos to align?         |
+
+| :question: How do you maintain momentum? |
+| ---------------------------------------- |
+
+If something isn't working, don't be afraid to change, but continue to
+focus on where you could add value.
 
 ##	What is my existing data culture?
 
-| Existing Culture: 20 min |
-| ------------------------ |
+| Existing Culture: 15-20 min |
+| --------------------------- |
 
 The last part of this section will be an opportunity to assess where you and your business are currently. One way to think about this is through the lens of data literacy, considering where yourself and your colleagues fit into this picture. Outside of science, engineering and analytics business areas, does it look similar or different?
 
