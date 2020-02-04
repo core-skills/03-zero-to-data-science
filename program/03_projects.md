@@ -1,7 +1,10 @@
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)
 
-# Data Science Projects: Workflows
+# Data Science Projects: The Workflow
+
+| 90 Minutes |
+| ---------- |
 
 The way in which data science projects are typically conducted differs in some regards relative to your typical project workflow.
 As we mentioned earlier, data science moves at a different pace, is iterative,
@@ -19,27 +22,8 @@ These steps are key to making the most of you data. Roughly, a series of steps y
 
 These are the steps we'll consider at a high level this afternoon.
 
-### Problems and Questions
-
-Asking the right questions
-
-### Exploratory Data Analysis
-
-
-### Data Cleaning
-
-> Garbage in, garbage out.
-
-### Data Transformation
-
-Digital Plumbing
-
-
-[Apteo Data Science Workflow](https://medium.com/apteo/our-data-science-workflow-b974f30a124d)
-
-| :question: Can you break down the parts of your project to fit into a workflow? |
-| ------------------------------------------------------------------------------- |
-
+| :question: Does your project easily break down to parts of a workflow? |
+| ---------------------------------------------------------------------- |
 
 ## Structuring Your Data Project
 
@@ -59,8 +43,7 @@ Other aspects of the structure of your data science project make it easier to **
 
 The segmentation or modularisation of your data science project (into some of the components discussed above) allows you to develop them independently.
 This can speed up the development process, and allow you to focus time on areas which will actually affect the results or performance of the overall process.
-This separation of concerns helps with debugging, as changes are typically only
-made to one part of the workflow at a time.
+This separation of concerns helps with debugging, as changes are typically only made to one part of the workflow at a time.
 
 As your projects become more complex, there are a variety of tools which can
 help separate concerns with respect to different parts of the workflow. For
