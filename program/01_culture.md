@@ -6,12 +6,13 @@
 
 ## What is Data Culture?
 
-| Overview: 20 min |
+| Overview: 40 min |
 | ---------------- |
 
 ### Overview
 
 ### <a id="a2">[What is data culture?](#f2 "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture")</a>
+
 
 > *	Leadership prioritizes and invests in data collection management and analytics
 > *	Leadership prioritizes creative data literacy for the whole organization
@@ -53,26 +54,9 @@ What are the roadblocks to getting started with data science problems? How will 
 | **Process**    | No laid-out process for working with data<sup id="a2">[#](#f2)</sup> | Follow a step-by-step approach. |
 
 
-<b id="f1">What is data culture? </b> ["Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"](https://datatherapy.org/2017/12/06/building-a-data-culture) [↩](#a1)
-
-<b id="f2">#:</b> Although there may be processes for collecting it! [↩](#a2)
-
-## Data Science in Context
-
-| Data Science: 20 min |
-| -------------------- |
-
-### Defining Data Science
-
-| :question: How you would define data science? |
-|:--------------------------------------------- |
-
-
 ### Data Literacy
 
 Recognize that you will be dealing with different parts of the organization with different data *literacies*.
-
-Data Literacy vs Data Science:
 
 * Ability to read data
 * Ability to work with data
@@ -81,19 +65,11 @@ Data Literacy vs Data Science:
 
 ### Where does data science sit within a broader data culture?
 
+Data Literacy vs Data Science
+
 | :question: Where do data scientists connect within the three types of business we’ve just described? |
 |:---------------------------------------------------------------------------------------------------- |
 
-### Data Science Workflows
-
-### Key Differentiator: Speed & Iterative Improvement
-
-*	Ideate
-* Consolidate
-* Implement:
-  – Draft, Refine, Optimize
-
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise ( John Tukey)
 
 ## High-Level Data Science Strategies
 
@@ -117,58 +93,37 @@ Start data and analytics initiatives with a baseline measurement of the “as is
 
 ### Maintaining Momentum
 
-## Data Science Teams
 
-| Data Teams & Interfaces: 20 min |
-| ------------------------------- |
+<b id="f1">What is data culture? </b> ["Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"](https://datatherapy.org/2017/12/06/building-a-data-culture) [↩](#a1)
 
-### Parts of an Effective Data Team
+<b id="f2">#:</b> Although there may be processes for collecting it! [↩](#a2)
 
-Data teams can encompass a variety of different roles, given the breadth of
-work undertaken to complete data science projects. Smaller teams may
-tend to be more generalist, so perhaps you may not encounter such a diversity of roles.
+##	What is my existing data culture?
 
-| How does the work of data scientists overlap with and differ to: |
-| ---------------------------------------------------------------- |
-| :question: Data engineers?                                       |
-| :question: Database managers?                                    |
-| :question: Software developers?                                  |
-| :question: Typical researchers?                                  |
-| :question: Web developers?                                       |
+| Existing Culture: 20 min |
+| ------------------------ |
 
-The ideal data scientist does not exist, and you need a spectrum of people working together.
+Introduce data literacy model as a way of thinking about the problem – suggest data science, data management, communications
 
-| Map some of these people onto your workflow. Who fits in where?                                    |
-|:-------------------------------------------------------------------------------------------------- |
-| :question: Where do you fit on this spectrum of people?                                            |
-| :question:  would you like to be?                                                                  |
-| :question: What are the key differences between them?                                              |
-| :question: What are some of the more important skills which align with where you would like to be? |
-| :question: Where do you see gaps in your organisation with respect to these roles?                 |
-| :question: How might you start bridging those gaps?                                                |
+Different stages of ideas about data science:
+1. Data are columns in spreadsheets and not connected to business decisions
+1. Data are connected to decisions through descriptive statistics (mean, percentiles, range), visualization (what plot is appropriate) and inferential statistics (when does the data support the conclusions)? Train people to make fewer assumptions and plot the data for themselves
+1.Modelling process – coming up with your own models for the data making predictions of future states from current states
+1. Creating data products – making data speak for others through services and automated predictions
 
+Data Management
+1. Data are spread out over the organization with no central point to get data from  
+1. Data are pooled and accessible to all staff with descriptive formats
+1. Data lifecycles are managed with old data retired. Code and pipelines are managed.
+1. Code and pipelines and servers are reused across the organization to add value across silos
 
-#### Mapping Interfaces
-
-| Map out the interfaces between your team members considering how you work.                             |
-|:------------------------------------------------------------------------------------------------------ |
-| :question: Who manages these interfaces?                                                               |
-| :question: What (data/code/information) needs to flow across them?                                     |
-| :question: What does effective leadership look like in a data-focused team?<sup id="a3">[#](#f3)</sup> |
+Communication ideas:
+1.	Data are not recognized
+1.	Basic metrics are available and used to drive decisions routinely in other business processes
+1.	Data are used to tell stories & show impact
+1.	Data are used to argue for particular courses of action
 
 
-| Map interfaces from your data team to the rest of the business.                         |
-|:--------------------------------------------------------------------------------------- |
-| :question: What needs to be supported once you’ve built something?                  |
-| :question: Who provides that support?                                               |
-| :question: Who funds your work?                                                     |
-| :question: How do you measure ongoing value? How do you know when things go wrong?  |
-| :question: Who manages the new datasets that you’re creating?                       |
-| :question: Who helps others get confident with the new processes you’ve introduced? |
-
-Note that all of these interfaces are potential communication barriers.
-
-<b id="f3">#</b> One suggestion: Communicate the 'why' (through your data plans/strategy) - let your team own the 'how'. You don’t need to know implementation details! [↩](#a3)
 
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)

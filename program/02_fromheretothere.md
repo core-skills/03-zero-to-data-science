@@ -1,28 +1,13 @@
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)
 
-# Getting From Here to There
+## From There to Here
 
-##	What is my existing data culture?
-1.	What needs to change?
-1.  Dealing with roadblocks
-Different stages of ideas about data science:
-1. Data are columns in spreadsheets and not connected to business decisions
-1. Data are connected to decisions through descriptive statistics (mean, percentiles, range), visualization (what plot is appropriate) and inferential statistics (when does the data support the conclusions)? Train people to make fewer assumptions and plot the data for themselves
-1.Modelling process – coming up with your own models for the data making predictions of future states from current states
-1. Creating data products – making data speak for others through services and automated predictions
+### What needs to change?
 
-Data Management
-1. Data are spread out over the organization with no central point to get data from  
-1. Data are pooled and accessible to all staff with descriptive formats
-1. Data lifecycles are managed with old data retired. Code and pipelines are managed.
-1. Code and pipelines and servers are reused across the organization to add value across silos
+| Changes: 15 min |
+| --------------- |
 
-Communication ideas:
-1.	Data are not recognized
-1.	Basic metrics are available and used to drive decisions routinely in other business processes
-1.	Data are used to tell stories & show impact
-1.	Data are used to argue for particular courses of action
 
 Relate these back to the three roadblocks:
 1.	**confidence** – how do we build confidence in our skills?
@@ -30,7 +15,6 @@ Relate these back to the three roadblocks:
 3.	**process** – what can my organization do to make it easier to get to the next level on the hierarchy?
 
 Understanding what already exists within your team before you try to change a bunch of things:
-
 *	Are there data champions already using data in good ways that you can celebrate as good role models?
 *	Are there roles in your organization aligned with your data needs?
 *	Is there a central person or team setting policies and best practices when it comes to your data related work?
@@ -39,8 +23,10 @@ Understanding what already exists within your team before you try to change a bu
 
 ## What needs to change?
 
+### Dealing with Roadblocks
 
-## Dealing with roadblocks
+| Roadblocks: 10 min |
+| ------------------ |
 
 **Confusion**
 
@@ -70,6 +56,84 @@ Make data something that can be fun for people – creative times to generate ne
 
 When someone more powerful than you just wants to ‘trust their gut’ – importance of experimentation and establishing baselines!
 
+
+## Data Science in Context
+
+| Overview: 20 min |
+| ------------------------------- |
+
+
+### Defining Data Science
+
+| :question: How you would define data science? |
+|:--------------------------------------------- |
+
+
+### Key Differentiator: Speed & Iterative Improvement
+
+* Ideate
+* Consolidate
+* Implement:
+  * Draft, Refine, Optimize
+
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise ( John Tukey)
+
+*	What happens when the jumps are too or too big?
+*	Prototype at all points - relate to value add to build momentum
+*	Simple tools that everyone can work on
+
+## Data Science Teams
+
+| Data Teams & Interfaces: 20 min |
+| ------------------------------- |
+
+### Parts of an Effective Data Team
+
+Data teams can encompass a variety of different roles, given the breadth of
+work undertaken to complete data science projects. Smaller teams may
+tend to be more generalist, so perhaps you may not encounter such a diversity of roles.
+
+| How does the work of data scientists overlap with and differ to: |
+| ---------------------------------------------------------------- |
+| :question: Data engineers?                                       |
+| :question: Database managers?                                    |
+| :question: Software developers?                                  |
+| :question: Typical researchers?                                  |
+| :question: Web developers?                                       |
+
+The ideal data scientist does not exist, and you need a spectrum of people working together.
+
+| Map some of these people onto your workflow. Who fits in where?                                    |
+|:-------------------------------------------------------------------------------------------------- |
+| :question: Where do you fit on this spectrum of people?                                            |
+| :question:  would you like to be?                                                                  |
+| :question: What are the key differences between them?                                              |
+| :question: What are some of the more important skills which align with where you would like to be? |
+| :question: Where do you see gaps in your organisation with respect to these roles?                 |
+| :question: How might you start bridging those gaps?                                                |
+
+
+#### Mapping Interfaces
+
+| Map out the interfaces between your team members considering how you work.                             |
+|:------------------------------------------------------------------------------------------------------ |
+| :question: Who manages these interfaces?                                                               |
+| :question: What (data/code/information) needs to flow across them?                                     |
+| :question: What does effective leadership look like in a data-focused team?<sup id="a3">[#](#f3)</sup> |
+
+
+| Map interfaces from your data team to the rest of the business.                         |
+|:--------------------------------------------------------------------------------------- |
+| :question: What needs to be supported once you’ve built something?                  |
+| :question: Who provides that support?                                               |
+| :question: Who funds your work?                                                     |
+| :question: How do you measure ongoing value? How do you know when things go wrong?  |
+| :question: Who manages the new datasets that you’re creating?                       |
+| :question: Who helps others get confident with the new processes you’ve introduced? |
+
+Note that all of these interfaces are potential communication barriers.
+
+<b id="f3">#</b> One suggestion: Communicate the 'why' (through your data plans/strategy) - let your team own the 'how'. You don’t need to know implementation details! [↩](#a3)
 
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)
