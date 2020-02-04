@@ -3,8 +3,8 @@
 
 # Data Science Projects: The Workflow
 
-| 90 Minutes |
-| ---------- |
+| Overview: 30 min |
+| ---------------- |
 
 The way in which data science projects are typically conducted differs in some regards relative to your typical project workflow.
 As we mentioned earlier, data science moves at a different pace, is iterative,
@@ -36,6 +36,9 @@ This evaluation will be context based, especially where decisions are informed b
 
 ## Structuring Your Data Project
 
+| Structure: 30 min |
+| ----------------- |
+
 Data science projects involve the use and creation of a number of on-disk components.
 This typically includes data, code, models, outputs, references and documentation.
 Before getting too far into a data science project, it's a good idea to organise these into some kind of consistent structure.
@@ -63,9 +66,7 @@ Writing appropriate documentation, and starting to leverage some of Python's
 inbuilt features for handling and reporting errors (including logging) will
 help with debugging when inevitably something does break.
 
-
 <b id="f1">#:</b> Particularly environment management, appropriate documentation and version control. [↩](#a1)
-
 
 ### Things to Watch Out For
 
@@ -84,6 +85,9 @@ these such templates is for a general data science project
 and gives you places to put all the key components.
 
 ## Prototyping
+
+| Prototypes: 30 min |
+| ------------------ |
 
 If you're new to coding, one of the things you'll need to get used to is
 breaking things. Especially in the field of data science,
