@@ -115,12 +115,32 @@ like it, it's a good idea to convert this code into separate
 `.py` files, as this then allows the code to be effectively
 reused, and makes it easier to maintain.
 
-### How do we make prototypes quickly?
+### Toward Deploying Prototypes: Into the Cloud
 
-### How do we make prototypes quickly?
-*	Be prepared to kill what you’ve built if something better comes along. Avoid the <a id="a2">[IKEA Effect](#f2 "Norton et al. (2012)")</a>!
+When it comes to deploying some of these, cloud and managed services can be
+your friend. In particular, not having to dive into the details and
+cost of setting these things up in house allows you to speed up
+the time to have these things deployed so you can effectively test them.
+These can also allow you to get real estimates of the
+resources you might need.
+
+The key thing here is to focus ruthlessly on what differentiates you (you are e.g. a miner not a database admin). If your cloud strategy is using e.g. Amazon’s services then you’re probably ok.
+
+When it comes to making decisions on infrastructure, start small and try something. Don't try and built the final 'ideal' system right away, and certainly don't try and do so on the first run through.
+Find what you need to make it work, and start putting together the
+pieces.
+
+But when it comes to your core business functions,
+try to do it yourself. Pick your core competencies and goals,
+and do those in house.
+
+
+### Kill Your Darlings
+
+Be prepared to kill what you’ve built if something better comes along. Avoid the <a id="a2">[IKEA Effect](#f2 "Norton et al. (2012)")</a>!
 
 <b id="f2">IKEA Effect:</b> Norton, M.I., Mochon, D., Ariely, D., 2012. The IKEA effect: When labor leads to love. Journal of Consumer Psychology 22, 453–460. [doi: 10.1016/j.jcps.2011.08.002](https://doi.org/10.1016/j.jcps.2011.08.002). [↩](#a2)
+
 
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)
