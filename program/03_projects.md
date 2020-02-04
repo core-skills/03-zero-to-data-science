@@ -18,12 +18,21 @@ These steps are key to making the most of you data. Roughly, a series of steps y
 1. Define a Question
 1. Explore Data
 1. Clean & Format Data
-1. Transform Data ready for ML Pipeline
+1. Transform Data ready for analysis/ML Pipeline
 
 These are the steps we'll consider at a high level this afternoon.
 
-| :question: Does your project easily break down to parts of a workflow? |
+This typically leads into an analysis or machine learning model pipeline, and ideally ends with an evaluation step - can you answer your question, and if so how well (considering accuracy, precision, uncertainty)?
+
+This evaluation will be context based, especially where decisions are informed by these models (consider the risk of wrongly predicting the weather for tomorrow vs. inducing a fault in a life support system).  
+
+| Some things to think about regarding your projects:                    |
 | ---------------------------------------------------------------------- |
+| :question: What makes something a good problem to address?             |
+| :question: What kinds of questions can you ask with this approach?     |
+| :question: What would be an acceptable outcome from this process?      |
+| :question: How might data/processing issues affect the outcome?        |
+| :question: Does your project easily break down to parts of a workflow? |
 
 ## Structuring Your Data Project
 
