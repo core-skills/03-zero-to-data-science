@@ -42,7 +42,7 @@ Before getting too far into a data science project, it's a good idea to organise
 
 This organisation step - when you stick with it - has a number of benefits, but it's particularly important for working with others.
 
-When coupled to some good coding practises<sup>[#]</sup>, one of the key advantages is **repeatability**, being able to easily repeat the workflow. This is particularly important for iterative development processes.
+When coupled to some good coding practises<sup id="a1">[#](#f1 "Particularly environment management, appropriate documentation and version control")</sup>, one of the key advantages is **repeatability**, being able to easily repeat the workflow. This is particularly important for iterative development processes.
 
 Following from this is **reproducibility**, being able to repeat the analysis and get the same result. If your analysis isn't reproducible, your confidence in the process is necessarily lowered.
 
@@ -63,7 +63,9 @@ Writing appropriate documentation, and starting to leverage some of Python's
 inbuilt features for handling and reporting errors (including logging) will
 help with debugging when inevitably something does break.
 
-[#]: . "Particularly environment management, appropriate documentation and version control."
+
+<b id="f1">#:</b> Particularly environment management, appropriate documentation and version control. [↩](#a1)
+
 
 ### Things to Watch Out For
 
@@ -101,11 +103,20 @@ workflow. In many cases, chasing 'ideal' will come at the cost of
 spending less time on what matters, or spending too much time
 on the overall project.
 
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise ( John Tukey)
+
 Jupyter notebooks are a particularly useful format for prototyping
 parts of workflows. Once you have something working as you'd
 like it, it's a good idea to convert this code into separate
 `.py` files, as this then allows the code to be effectively
-resused, and makes it easier to maintain.
+reused, and makes it easier to maintain.
+
+### How do we make prototypes quickly?
+
+### How do we make prototypes quickly?
+*	Be prepared to kill what you’ve built if something better comes along. Avoid the <a id="a2">[IKEA Effect](#f2 "Norton et al. (2012)")</a>!
+
+<b id="f2">IKEA Effect:</b> Norton, M.I., Mochon, D., Ariely, D., 2012. The IKEA effect: When labor leads to love. Journal of Consumer Psychology 22, 453–460. [doi: 10.1016/j.jcps.2011.08.002](https://doi.org/10.1016/j.jcps.2011.08.002). [↩](#a2)
 
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)

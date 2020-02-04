@@ -7,7 +7,7 @@
 
 ### Overview
 
-### [What is data culture?]
+### <a id="a2">[What is data culture?](#f2 "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture")</a>
 
 > *	Leadership prioritizes and invests in data collection management and analytics
 > *	Leadership prioritizes creative data literacy for the whole organization
@@ -46,11 +46,14 @@ What are the roadblocks to getting started with data science problems? How will 
 | -------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | **Confidence** | Organizations are not confident that they can be google.                                                                 | Build with small examples.     |
 | **Technology** | Appears daunting, expensive and requires technical expertise.                                                   | Start with simple tech.        |
-| **Process**    | Organizations have no laid-out process for working with data<sup>[#]</sup>  | Follow a step-by-step approach. |
+| **Process**    | Organizations have no laid-out process for working with data<sup id="a2">[#](#f2 "Although there may be processes for collecting it!")</sup>  | Follow a step-by-step approach. |
 
-[#]: _ "Although there may be processes for collecting it!"
 
-[What is data culture?]: https://datatherapy.org/2017/12/06/building-a-data-culture/ "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"
+<b id="f1">What is data culture? </b> ["Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture"](https://datatherapy.org/2017/12/06/building-a-data-culture) [↩](#a1)
+
+<b id="f2">#:</b> Although there may be processes for collecting it! [↩](#a2)
+
+
 
 ## Data Science in Context
 
@@ -96,7 +99,7 @@ Data Literacy vs Data Science:
 
 Building an effective strategy & making progress when you don’t have all the information. A strategy defines how you win. At a high level, a data and analytics strategy must answer questions such as “What data? For what purposes? And by whom?”
 
-1. At a slightly lower level, a strategy must:
+At a slightly lower level, a strategy must:
   *	Identify and guide the allocation of critical resources
   *	Define how to measure success
   *	Adapt to changing circumstances dynamically
