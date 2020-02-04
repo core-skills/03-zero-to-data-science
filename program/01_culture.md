@@ -27,7 +27,7 @@ There are a number of facets to unpack here.
 
 The first is that data is treated as an asset.
 
-Beyond this, the business create capability to **realize value** from this data. That is, it doesn't sit around in a warehouse, it earns its keep.
+Beyond this, the business creates capability to **realize value** from this data. That is, it doesn't sit around in a warehouse, it earns its keep.
 
 Data alone is not valuable (especially if it's not *valued*), but when combined with domain insight and rich metadata, it can be leveraged to create value. The better your data management and data *enrichment*, the longer your data will remain useful.
 
@@ -70,7 +70,7 @@ There are different styles of data-oriented businesses, each with different uses
 
 *	When you’re **data-informed**, you take the data and its context as inputs to your conversation and decision-making process
 
-*	When you’re **data-driven** - using data to make decisions directly - removing the human from the loop
+*	When you’re **data-driven**, you use data to make decisions directly - removing the human from the loop
 
 Recognize that it’s not either-or, and that all organizations can use a combination of all three approaches.
 
@@ -89,10 +89,10 @@ communication and reporting will fall in the other categories.
 
 There's a number of things which get in the way of a data culture, especially on the scale of entire organisations. Below we've listed Data Therapy's three key aspects which tend to get in the way,  why, and how you might handle them.
 
-| Aspect         | Description                                                          | Solutions                       |
-| -------------- | -------------------------------------------------------------------- | ------------------------------- |
-| **Confidence** | Organizations are not confident that they can be google.             | Build with small examples.      |
-| **Technology** | Appears daunting, expensive and requires technical expertise.        | Start with simple tech.         |
+| Aspect         | Description                                                           | Solutions                       |
+| -------------- | --------------------------------------------------------------------- | ------------------------------- |
+| **Confidence** | Organizations are not confident that they can be work with data.      | Build with small examples.      |
+| **Technology** | Appears daunting, expensive and requires technical expertise.         | Start with simple tech.         |
 | **Process**    | No laid-out process for working with data<sup id="a2">[#](#f2)</sup>. | Follow a step-by-step approach. |
 
 
@@ -108,7 +108,7 @@ There's a number of things which get in the way of a data culture, especially on
 
 ### Data Literacy
 
-A key aspect of developing a data culture is **data literacy**. What does this mean? Overall, it's the ability to:
+**Data literacy** is a key aspect of developing data culture. What does this mean? Overall, it's the ability to:
 
 * Read data
 * Work with data
@@ -121,12 +121,8 @@ Why does this matter? You can't develop a **data-driven** business if you have l
 
 Recognize that you will be dealing with different parts of the organization with different data *literacies*.
 
-### Where does data science sit within a broader data culture?
-
-Data Literacy vs Data Science
-
-| :question: Where do data scientists connect within the three types of business we’ve just described? |
-|:---------------------------------------------------------------------------------------------------- |
+| :question: What work do data scientists do within the three types of business we’ve just described? |
+|:--------------------------------------------------------------------------------------------------- |
 
 ## High-Level Data Science Strategies
 
@@ -161,7 +157,7 @@ This could include:
   What the data and analytics mean for stakeholders, such as assets, partners, shareholders and society at large.
 
 | Some questions to consider:                                |
-| ---------------------------------------------------------- |
+|:---------------------------------------------------------- |
 | :question: What does this data help us do?                 |
 | :question: What is missing from this data?                 |
 | :question: Are we sharing data in the most effective ways? |
@@ -183,7 +179,7 @@ The last part of this section will be an opportunity to assess where you and you
 We've included three tables below listing some ideas about stages of where your business may sit or be heading towards regarding data science, data management and how well data are used in communication.
 
 | Different stages of ideas about data science:                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------- |
+|:----------------------------------------------------------------------------------------------------------------------- |
 | Data are columns in spreadsheets and not connected to business decisions                                                |
 | Data are connected to decisions through descriptive statistics, visualization and inferential statistics?               |
 | Modelling process – coming up with your own models for the data making predictions of future states from current states |
@@ -191,7 +187,7 @@ We've included three tables below listing some ideas about stages of where your 
 
 
 | Data Management                                                                             |
-| ------------------------------------------------------------------------------------------- |
+|:------------------------------------------------------------------------------------------- |
 | Data are spread out over the organization with no central point to get data from            |
 | Data are pooled and accessible to all staff with descriptive formats                        |
 | Data lifecycles are managed with old data retired. Code and pipelines are managed.          |
@@ -199,7 +195,7 @@ We've included three tables below listing some ideas about stages of where your 
 
 
 | Communication                                                                                 |
-| --------------------------------------------------------------------------------------------- |
+|:--------------------------------------------------------------------------------------------- |
 | Data are not recognized                                                                       |
 | Basic metrics are available and used to drive decisions routinely in other business processes |
 | Data are used to tell stories & show impact                                                   |
