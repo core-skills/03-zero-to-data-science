@@ -3,25 +3,44 @@
 
 ## From There to Here
 
+The first part of this section will address some things which could be
+worth changing in your workplace, how you might go about it, and what might
+get in the way.
+
+The second part identifies how data science fits in, how it's different
+to our typical everyday workflows, and what an effective data team
+might look like.
+
 ### What needs to change?
 
-| Changes: 15 min |
+| Changes: 25 min |
 | --------------- |
 
+When it comes to making change, baby steps are fine. Whether the approach is top-down or bottom-up, there's many things you could implement in your
+everyday work. Look for and highlight examples of good practise, look for internal advocates and build external relationships.
+Understand what already exists within your team before you try to change a bunch of things.
 
-Relate these back to the three roadblocks:
+| Assess where you are:                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| :question: Are there data champions already using data in good ways that you can celebrate as good role models?           |
+| :question: Are there roles in your organization aligned with your data needs?                                             |
+| :question: Is there a central person or team setting policies and best practices when it comes to your data related work? |
+| :question: Are there things that are going to break when I introduce a new process?                                       |
+
+You might what to relate some of your potential changes back to the three categories of roadblocks we mentioned earlier:
 1.	**confidence** – how do we build confidence in our skills?
 2.	**technology** – what platforms should we use and what investments made to get ourselves to the next level?
 3.	**process** – what can my organization do to make it easier to get to the next level on the hierarchy?
 
-Understanding what already exists within your team before you try to change a bunch of things:
-*	Are there data champions already using data in good ways that you can celebrate as good role models?
-*	Are there roles in your organization aligned with your data needs?
-*	Is there a central person or team setting policies and best practices when it comes to your data related work?
-*	Are there things that are going to break when I introduce a new process?
+| Some questions to consider:                                             |
+| ----------------------------------------------------------------------- |
+| :question: What might you change in your workplace?                     |
+| :question: What are *important* changes, and what are *easy* changes?   |
+| :question: Who might be a good advocate for implementing some of these? |
+| :question: What are the processes which will be difficult to change?    |
+| :question: Are there good practises to highlight and popularise?        |
+| :question: Where might pushback come from?                              |
 
-
-## What needs to change?
 
 ### Dealing with Roadblocks
 
