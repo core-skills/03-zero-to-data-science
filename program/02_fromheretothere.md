@@ -1,7 +1,10 @@
 [Overview](./00_overview.md) | [Data Culture](./01_culture.md) |
 [From Here to There](./02_fromheretothere.md) | [Data Projects](./03_projects.md) | [Data Exploration](./04_dataexploration.md) | [Closeout](./05_closeout.md)
 
-## From There to Here
+# From There to Here
+
+| 90 min |
+| ------ |
 
 The first part of this section will address some things which could be
 worth changing in your workplace, how you might go about it, and what might
@@ -11,9 +14,9 @@ The second part identifies how data science fits in, how it's different
 to our typical everyday workflows, and what an effective data team
 might look like.
 
-### What needs to change?
+## What needs to change?
 
-| Changes: 25 min |
+| Changes: 35 min |
 | --------------- |
 
 When it comes to making change, baby steps are fine. Whether the approach is top-down or bottom-up, there's many things you could implement in your
@@ -44,9 +47,6 @@ You might what to relate some of your potential changes back to the three catego
 
 ### Dealing with Roadblocks
 
-| Roadblocks: 10 min |
-| ------------------ |
-
 **Confusion**
 
 Need to use communication methods and language that meets people where they are You will need to teach others to interpret your outputs for themselves
@@ -65,7 +65,7 @@ Infrastructure specific thinking (if I just have a Hadoop platform my analytics 
 
 **Irrelevance**
 
-If staff don’t understand the utility of the data they are collecting you will get shit data – KPIs not a key driver – you need staff to understand ‘so what’ – make it relevant to them (often they will know the relevance better than you!)
+If staff don’t understand the utility of the data they are collecting you will get bad data – KPIs not a key driver – you need staff to understand 'so what' – make it relevant to them (often they will know the relevance better than you!)
 
 **Boredom**
 
@@ -73,8 +73,11 @@ Make data something that can be fun for people – creative times to generate ne
 
 **HiPPOs (Highest Paid Person’s Opinions)**
 
-When someone more powerful than you just wants to ‘trust their gut’ – importance of experimentation and establishing baselines!
+When someone more powerful than you just wants to 'trust their gut' – importance of experimentation and establishing baselines!
 
+
+| Short Break: 10 mins |
+| -------------------- |
 
 ## Data Science in Context
 
