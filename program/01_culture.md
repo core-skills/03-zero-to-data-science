@@ -61,6 +61,37 @@ Some of the more common reasons for developing a data culture are to:
 
 | :question: What's the difference between developing a data culture and hiring some data scientists? |
 | --------------------------------------------------------------------------------------------------- |
+### Data Literacy
+
+**Data literacy** is a key aspect of developing data culture. What does this mean? Overall, it's the ability to:
+
+* Read data
+* Work with data
+* Analyse data
+* Argue with data
+
+You might notice some similarities to the core skills program, which implicitly aims to help you build skills to climb this hierarchy of data literacy.
+
+Why does this matter? You can't develop a **data-driven** business if you have low levels of data literacy. You might be able to generate data, but turning it into value will be arduous.
+
+Recognize that you will be dealing with different parts of the organization with different data *literacies*.
+
+| :question:  What happens when data-focused business activities are contained within a single part of the organisation? |
+| ---------------------------------------------------------------------------------------------------------------------- |
+
+### Roadblocks to Data Culture
+
+There's a number of things which get in the way of a data culture, especially on the scale of entire organisations. Below we've listed Data Therapy's three key aspects which tend to get in the way,  why, and how you might handle them.
+
+| Aspect         | Description                                                           | Solutions                       |
+| -------------- | --------------------------------------------------------------------- | ------------------------------- |
+| **Confidence** | Organizations are not confident that they can be work with data.      | Build with small examples.      |
+| **Technology** | Appears daunting, expensive and requires technical expertise.         | Start with simple tech.         |
+| **Process**    | No laid-out process for working with data<sup id="a2">[#](#f2)</sup>. | Follow a step-by-step approach. |
+
+
+| :question: What else might stop you getting started with data science problems? |
+| ------------------------------------------------------------------------------- |
 
 ### Styles of Data-oriented Businesses
 
@@ -85,41 +116,9 @@ wish to achieve. If your aims are largely around optimization, you'll
 be in the **data-driven** space, while aims centred around
 communication and reporting will fall in the other categories.
 
-### Roadblocks to Data Culture
-
-There's a number of things which get in the way of a data culture, especially on the scale of entire organisations. Below we've listed Data Therapy's three key aspects which tend to get in the way,  why, and how you might handle them.
-
-| Aspect         | Description                                                           | Solutions                       |
-| -------------- | --------------------------------------------------------------------- | ------------------------------- |
-| **Confidence** | Organizations are not confident that they can be work with data.      | Build with small examples.      |
-| **Technology** | Appears daunting, expensive and requires technical expertise.         | Start with simple tech.         |
-| **Process**    | No laid-out process for working with data<sup id="a2">[#](#f2)</sup>. | Follow a step-by-step approach. |
-
-
-| :question: What else might stop you getting started with data science problems? |
-| ------------------------------------------------------------------------------- |
-
-
-| :question: What happens when data-focused business activities are contained within a single part of the organisation? |
-| --------------------------------------------------------------------------------------------------------------------- |
 
 
 <b id="f2">#:</b> Although there may be processes for collecting it! [↩](#a2)
-
-### Data Literacy
-
-**Data literacy** is a key aspect of developing data culture. What does this mean? Overall, it's the ability to:
-
-* Read data
-* Work with data
-* Analyse data
-* Argue with data
-
-You might notice some similarities to the core skills program, which implicitly aims to help you build skills to climb this hierarchy of data literacy.
-
-Why does this matter? You can't develop a **data-driven** business if you have low levels of data literacy. You might be able to generate data, but turning it into value will be arduous.
-
-Recognize that you will be dealing with different parts of the organization with different data *literacies*.
 
 | :question: What key work do data scientists do within the three types of business we’ve just described? |
 |:--------------------------------------------------------------------------------------------------- |
@@ -134,7 +133,11 @@ At a slightly lower level, a strategy must:
   *	Adapt to changing circumstances dynamically
   *	Act both proactively and reactively
 
-### Baseline & Measuring Improvements
+| Identifying, Measuring and Demonstrating Value is Key |
+| ----------------------------------------------------- |
+
+
+### Baseline & Measuring Added Value
 
 Before you begin a journey with data and analytics initiatives, one of the best things you can do is establish where you're starting. From this baseline "as is" state you can then plot a show a clear path to financial and business objectives. Your data and analytics incentives and activities should be linked to generating value for the business.
 
