@@ -35,15 +35,15 @@ You might what to relate some of your potential changes back to the three catego
 2.	**technology** – what platforms should we use and what investments made to get ourselves to the next level?
 3.	**process** – what can my organization do to make it easier to get to the next level on the hierarchy?
 
-| Some questions to consider:                                             |     |
-|:----------------------------------------------------------------------- | --- |
-| :question: What might you change in your workplace?                     |     |
-| :question: What are *important* changes, and what are *easy* changes?   |     |
-| :question: Who might be a good advocate for implementing some of these? |     |
-| :question: What are the processes which will be difficult to change?    |     |
-| :question: Are there good practises to highlight and popularise?        |     |
-| :question: Where might pushback come from?                              |     |
-
+| Some questions to consider:                                             |
+|:----------------------------------------------------------------------- |
+| :question: What might you change in your workplace?                     |
+| :question: What are *important* changes, and what are *easy* changes?   |
+| :question: For which changes can you easily demonstrate added value?    |
+| :question: Who might be a good advocate for implementing some of these? |
+| :question: What are the processes which will be difficult to change?    |
+| :question: Are there good practises to highlight and popularise?        |
+| :question: Where might pushback come from?                              |
 
 ### Dealing with Roadblocks
 
