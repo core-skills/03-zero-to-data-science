@@ -24,7 +24,7 @@ everyday work. Look for and highlight examples of good practise, look for intern
 Understand what already exists within your team before you try to change a bunch of things.
 
 | Assess where you are:                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------- |
+|:------------------------------------------------------------------------------------------------------------------------- |
 | :question: Are there data champions already using data in good ways that you can celebrate as good role models?           |
 | :question: Are there roles in your organization aligned with your data needs?                                             |
 | :question: Is there a central person or team setting policies and best practices when it comes to your data related work? |
@@ -35,21 +35,22 @@ You might what to relate some of your potential changes back to the three catego
 2.	**technology** – what platforms should we use and what investments made to get ourselves to the next level?
 3.	**process** – what can my organization do to make it easier to get to the next level on the hierarchy?
 
-| Some questions to consider:                                             |
-| ----------------------------------------------------------------------- |
-| :question: What might you change in your workplace?                     |
-| :question: What are *important* changes, and what are *easy* changes?   |
-| :question: Who might be a good advocate for implementing some of these? |
-| :question: What are the processes which will be difficult to change?    |
-| :question: Are there good practises to highlight and popularise?        |
-| :question: Where might pushback come from?                              |
+| Some questions to consider:                                             |     |
+|:----------------------------------------------------------------------- | --- |
+| :question: What might you change in your workplace?                     |     |
+| :question: What are *important* changes, and what are *easy* changes?   |     |
+| :question: Who might be a good advocate for implementing some of these? |     |
+| :question: What are the processes which will be difficult to change?    |     |
+| :question: Are there good practises to highlight and popularise?        |     |
+| :question: Where might pushback come from?                              |     |
 
 
 ### Dealing with Roadblocks
 
 **Confusion**
 
-Need to use communication methods and language that meets people where they are You will need to teach others to interpret your outputs for themselves
+* Use communication methods and language that meets people where they are
+* You will need to teach others to interpret your outputs for themselves
 
 **Not knowing your own data**
 
@@ -69,7 +70,7 @@ If staff don’t understand the utility of the data they are collecting you will
 
 **Boredom**
 
-Make data something that can be fun for people – creative times to generate new things from data – tell stories about your data share these – data are more than pivot tables!
+Make data something that can be fun for people – creative times to generate new things from data – tell stories about your data share these – data are more than pivot tables!  
 
 **HiPPOs (Highest Paid Person’s Opinions)**
 
@@ -90,19 +91,41 @@ When someone more powerful than you just wants to 'trust their gut' – importan
 | :question: How you would define data science? |
 |:--------------------------------------------- |
 
+Data science is the confluence of data analytics, machine learning,
+visualisation, communication and often domain knowledge.
 
-### Key Differentiator: Speed & Iterative Improvement
+While leveraging a number of technical and analytical skills,
+data science work is often more creative and involves more 'building'
+than typical analysis tasks.
+
+Statistics 2.0?
+
+Data science borrows some core scientific concepts, but differs to the way
+in which work is done. In particular, data science contrasts with the the relatively linear workflows and timeframes of months to years we experience in typical research and development workflows.
+
+### Key Differentiator: Iterative Improvement & Speed
+
+The key differentiator relative to our existing workflow is iterative development. Because of this, things tend to move quickly.
+
+Data science workflows involve continuously assessing and improving what you're doing. This cycle of improvement could be characterised by a series of stages, the latter of which involves a loop:
 
 * Ideate
 * Consolidate
 * Implement:
   * Draft, Refine, Optimize
 
+When it comes to getting answers with data science, it's better to get an approximate answer quickly. You can use this as a feedback to quickly improve your models.
+
 > Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise ( John Tukey)
 
-*	What happens when the jumps are too or too big?
-*	Prototype at all points - relate to value add to build momentum
-*	Simple tools that everyone can work on
+At all points, prototype your system, and focus your time on things which you know will add value. Keeping the problem linked to the business value proposition helps to keep momentum.
+
+Build system which everyone can work on. Beyond the adage 'many hands make light work', if you have others involved you'll have better buy-in, and you'll end up with better systems.
+
+When it comes to improving the next system or prototype, consider what appropriate levels of change might be.
+
+| :question: What happens when the jumps are too small or too big? |
+| ---------------------------------------------------------------- |
 
 ## Data Science Teams
 
@@ -116,14 +139,24 @@ work undertaken to complete data science projects. Smaller teams may
 tend to be more generalist, so perhaps you may not encounter such a diversity of roles.
 
 | How does the work of data scientists overlap with and differ to: |
-| ---------------------------------------------------------------- |
+|:---------------------------------------------------------------- |
 | :question: Data engineers?                                       |
 | :question: Database managers?                                    |
 | :question: Software developers?                                  |
 | :question: Typical researchers?                                  |
 | :question: Web developers?                                       |
+| :question: Data analysts?                                        |
 
 The ideal data scientist does not exist, and you need a spectrum of people working together.
+
+Another thing to consider is how distinct you may want roles
+to be, and how closely you connect the members of your data team.
+
+Consider this paragraph describing the LinkdedIn data
+team from DJ Patil, ex-LinkedIn Chief Scientist, Chief Security Officer and Head of Analytics and Data Teams:
+
+> It’s important that our data team wasn’t comprised solely of mathematicians and other "data people". It’s a fully integrated product group that includes people working in design, web development, engineering, product marketing, and operations. They all understand and work with data, and I consider them all data scientists. We intentionally kept the distinction between different roles in the group blurry. Often, an engineer can have the insight that makes it clear how the product’s design should work, or vice-versa — a designer can have the insight that helps the engineers understand how to better use the data. Or it may take someone from marketing to understand what a customer really wants to accomplish.<a id="a1">[#](#f1 "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture")</a>
+
 
 | Map some of these people onto your workflow. Who fits in where?                                    |
 |:-------------------------------------------------------------------------------------------------- |
@@ -134,6 +167,8 @@ The ideal data scientist does not exist, and you need a spectrum of people worki
 | :question: Where do you see gaps in your organisation with respect to these roles?                 |
 | :question: How might you start bridging those gaps?                                                |
 
+
+<b id="f1">#</b> Patil, D.J. (2011). Building Data Science Teams. O’Reilly Media, Inc. [↩](#a1)
 
 #### Mapping Interfaces
 
