@@ -106,7 +106,7 @@ Answering the questions should give you new insight about your data, which shoul
 | :question: **How can you do it in practice?**                  |
 | :question: **What techniques can you use?**                    |
 
-< Example >
+< Example pm-data-exploration.ipynb step 1 >
 
 | Think about what we just saw                         |
 |:---------------------------------------------------- |
@@ -132,10 +132,7 @@ Modelling is usually done in two steps, which can be both automated:
 1. Select a model that express the pattern(s) you've identified during data exploration (e.g., a straight line or a sinusoid)
 2. Fit the model by using the data to tune its coefficients (i.e., training)
 
-There are many different possible models, with:
-
-- two main objectives, classification or regression
-- two main types of model fitting, supervised or unsupervised
+There are many possible models, with different categories, like supervised vs. unsupervised or classification vs. regression.
 
 ### Data preparation
 
@@ -166,7 +163,7 @@ Results from a model can be divided into two components:
 - Predictions = what has the model captured
 - Residuals = what has the model missed
 
-< Example >
+< Example pm-data-exploration.ipynb step 2 >
 
 Similarly to the data exploration steps. here the goal is to gain insights on the predicting capabilities of the model. This analysis is more meaningful when carried out on test data.
 
