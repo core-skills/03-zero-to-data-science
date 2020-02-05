@@ -121,7 +121,7 @@ Why does this matter? You can't develop a **data-driven** business if you have l
 
 Recognize that you will be dealing with different parts of the organization with different data *literacies*.
 
-| :question: What work do data scientists do within the three types of business we’ve just described? |
+| :question: What key work do data scientists do within the three types of business we’ve just described? |
 |:--------------------------------------------------------------------------------------------------- |
 
 ## High-Level Data Science Strategies

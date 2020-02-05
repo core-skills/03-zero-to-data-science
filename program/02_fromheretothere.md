@@ -120,7 +120,7 @@ When it comes to getting answers with data science, it's better to get an approx
 
 At all points, prototype your system, and focus your time on things which you know will add value. Keeping the problem linked to the business value proposition helps to keep momentum.
 
-Build system which everyone can work on. Beyond the adage 'many hands make light work', if you have others involved you'll have better buy-in, and you'll end up with better systems.
+Build systems which everyone can work on. Beyond the adage 'many hands make light work', if you have others involved you'll have better buy-in, and you'll end up with better systems.
 
 When it comes to improving the next system or prototype, consider what appropriate levels of change might be.
 
@@ -162,7 +162,6 @@ team from DJ Patil, ex-LinkedIn Chief Scientist, Chief Security Officer and Head
 |:-------------------------------------------------------------------------------------------------- |
 | :question: Where do you fit on this spectrum of people?                                            |
 | :question:  would you like to be?                                                                  |
-| :question: What are the key differences between them?                                              |
 | :question: What are some of the more important skills which align with where you would like to be? |
 | :question: Where do you see gaps in your organisation with respect to these roles?                 |
 | :question: How might you start bridging those gaps?                                                |
@@ -179,12 +178,13 @@ team from DJ Patil, ex-LinkedIn Chief Scientist, Chief Security Officer and Head
 | :question: What does effective leadership look like in a data-focused team?<sup id="a3">[#](#f3)</sup> |
 
 
-| Map interfaces from your data team to the rest of the business.                         |
-|:--------------------------------------------------------------------------------------- |
+| Map interfaces from your data team to the rest of the business.                     |
+|:----------------------------------------------------------------------------------- |
 | :question: What needs to be supported once you’ve built something?                  |
 | :question: Who provides that support?                                               |
 | :question: Who funds your work?                                                     |
-| :question: How do you measure ongoing value? How do you know when things go wrong?  |
+| :question: How do you measure ongoing value?                                        |
+| :question: How do you know when things go wrong?                                    |
 | :question: Who manages the new datasets that you’re creating?                       |
 | :question: Who helps others get confident with the new processes you’ve introduced? |
 
