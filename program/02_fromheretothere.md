@@ -101,7 +101,7 @@ than typical analysis tasks.
 Statistics 2.0?
 
 Data science borrows some core scientific concepts, but differs to the way
-in which work is done. In particular, data science contrasts with the the relatively linear workflows and timeframes of months to years we experience in typical research and development workflows.
+in which work is done. In particular, data science contrasts with the relatively linear workflows and timeframes of months to years we experience in typical research and development workflows.
 
 ### Key Differentiator: Iterative Improvement & Speed
 
