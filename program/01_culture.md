@@ -8,7 +8,7 @@
 
 ### Overview
 
-### <a id="a1">[What is data culture?](#f2 "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture")</a>
+### <a id="a1">[What is data culture?](#1 "Data Therapy: You Don’t Need a Data Scientist, You Need a Data Culture")</a>
 
 Beyond the buzz words, what does this mean?
 
