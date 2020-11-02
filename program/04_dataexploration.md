@@ -106,7 +106,7 @@ Answering the questions should give you new insight about your data, which shoul
 | :question: **How can you do it in practice?**                  |
 | :question: **What techniques can you use?**                    |
 
-< Example pm-data-exploration.ipynb step 1 >
+Open [pm-data-exploration.ipynb](../notebooks/pm-data-exploration.ipynb) and go through step 1.
 
 | Think about what we just saw                         |
 |:---------------------------------------------------- |
@@ -163,7 +163,7 @@ Results from a model can be divided into two components:
 - Predictions = what has the model captured
 - Residuals = what has the model missed
 
-< Example pm-data-exploration.ipynb step 2 >
+Go back to [pm-data-exploration.ipynb](../notebooks/pm-data-exploration.ipynb) and go through step 2.
 
 Similarly to the data exploration steps. here the goal is to gain insights on the predicting capabilities of the model. This analysis is more meaningful when carried out on test data.
 
