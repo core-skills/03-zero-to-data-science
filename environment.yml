@@ -1,4 +1,4 @@
-name: week01
+name: core03
 
 channels:
   # Conda forge - gives us lots of community-built Python packages, see https://conda-forge.org/ for details
@@ -8,18 +8,11 @@ channels:
 
 dependencies:
   - numpy
-  - pandas
-  - xlrd
-  - feather-format
-  - matplotlib
+  - pandas>=1.1
+  - matplotlib>=3.1
   - seaborn>=0.9
-  - patsy
-  - scikit-learn
-  - ipykernel
+  - scikit-learn>=0.21
   - jupyter
-  - rasterio
-  - cartopy
-  - geopandas
-  - geoplot
-  - pip:
-    - bomber
+  - jupyterlab
+  # - pip:
+  #   - pip-installable dependencies go here. Prefer Conda ones if possible...

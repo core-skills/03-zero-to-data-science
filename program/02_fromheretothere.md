@@ -30,10 +30,10 @@ Understand what already exists within your team before you try to change a bunch
 | :question: Is there a central person or team setting policies and best practices when it comes to your data related work? |
 | :question: Are there things that are going to break when I introduce a new process?                                       |
 
-You might what to relate some of your potential changes back to the three categories of roadblocks we mentioned earlier:
-1.	**confidence** – how do we build confidence in our skills?
-2.	**technology** – what platforms should we use and what investments made to get ourselves to the next level?
-3.	**process** – what can my organization do to make it easier to get to the next level on the hierarchy?
+You might want to relate some of your potential changes back to the three categories of roadblocks we mentioned earlier:
+1.	**Confidence** – how do we build confidence in our skills?
+2.	**Technology** – what platforms should we use and what investments made to get ourselves to the next level?
+3.	**Process** – what can my organization do to make it easier to get to the next level on the hierarchy?
 
 | Some questions to consider:                                             |
 |:----------------------------------------------------------------------- |
